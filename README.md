@@ -15,6 +15,10 @@ $> julia --project -e 'using Pkg; Pkg.instantiate()'
 
 Then run the app
 
+```bash
+$> julia --project
+```
+
 ```julia
 julia> using GenieFramework
 julia> Genie.loadapp() # load app
