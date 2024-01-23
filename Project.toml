@@ -1,3 +1,7 @@
+name = "GermanCredits"
+imgname = "credits"
+version = "0.0.0"
+
 [deps]
 CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
@@ -10,3 +14,4 @@ DataFrames = "1.5"
 GenieFramework = "1.19"
 OrderedCollections = "1.6"
 julia = "1.6"
+
