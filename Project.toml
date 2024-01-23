@@ -11,7 +11,6 @@ OrderedCollections = "bac558e1-5e72-5ebc-8fee-abe8a469f55d"
 [compat]
 CSV = "0.10"
 DataFrames = "1.5"
-GenieFramework = "1.19"
+GenieFramework = "1.26.11"
 OrderedCollections = "1.6"
 julia = "1.6"
-
