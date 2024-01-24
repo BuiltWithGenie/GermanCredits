@@ -1,7 +1,7 @@
 using GenieFramework, CSV, DataFrames, OrderedCollections
 include("app/GermanCredits.jl")
 using .GermanCredits
-@genietools
+#= @genietools =#
 
 const data = CSV.File("data/german_credits.csv") |> DataFrame
 
